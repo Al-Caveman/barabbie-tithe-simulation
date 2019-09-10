@@ -8,7 +8,8 @@ in the source file `sim.py`.
 
 * `barabbas` tithes:  `barabbas` claims that he spends 10% of, not only his
   income, but also his savings.
-* Common tithe:  10% charity is deducted from the income (but not the savings.
+* Common tithes:  10% charity is deducted from the income (but not the
+  savings).
 * Zakat: 2.5% on income and savings.
 
 # Results:
