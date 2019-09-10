@@ -1,38 +1,3 @@
-# Intro
-
-This simulates various charity schemes for the average American.  The average
-American is defined based on statistics collected form 2016-2016.  Details are
-in the source file `sim.py`.
-
-# These charity schemes are simulated:
-
-* `barabbas` tithes:  `barabbas` claims that he spends 10% of, not only his
-  income, but also his savings.
-* Common tithe:  10% charity is deducted from the income (but not the savings.
-* Zakat: 2.5% on income and savings.
-
-# Results:
-
-* `barabbas` tithes:  Average American loses all his money in less than 16 years.
-* Common tithe:  Average American loses all his money in less than 48 years.
-* Zakat: Average American maintains a significantly above-average saving at
-  `176414` USD.
-
-This shows that all types of tithes are harmful to the average American as they
-drag them to poverty.  This may hint on one of the reasons why Christianity
-dragged Europe into its _"dark age"_.
-
-Not to mention that tithes are paid to churches which, in turn spend a good
-chunk of it for lawsuits to defend their pedo priests/pastors, buying fancy
-priest/pastor clothings, housings, etc.  So it is not even an efficient charity
-channel.
-
-Zakat, on the other hand, works just fine.  The average Aemrican is able to
-live comfortably, and to pay charities to the poor.  Additionally, Zakat can be
-paid directly to the poor, without needing to pay it to a central authority.
-
-# Details
-
 simulating barabbas tithes
 year    savings
 0       29790.6
